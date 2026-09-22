@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO.csproj|c:\\my process visual studio\\quest\u00E3o3-dto\\quest\u00E3o3-dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO.csproj|solutionrelative:quest\u00E3o3-dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3_DTO.csproj|c:\\my process visual studio\\quest\u00E3o3-dto\\quest\u00E3o3-dto\\reservamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3_DTO.csproj|solutionrelative:quest\u00E3o3-dto\\reservamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3_DTO.csproj|c:\\my process visual studio\\quest\u00E3o3-dto\\quest\u00E3o3-dto\\relatorioreservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3_DTO.csproj|solutionrelative:quest\u00E3o3-dto\\relatorioreservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO.csproj|c:\\my process visual studio\\quest\u00E3o3-dto\\quest\u00E3o3-dto\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5F5203-B7E6-4EF1-8FA2-C91EDC7146A2}|Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO.csproj|solutionrelative:quest\u00E3o3-dto\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaMapper.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\ReservaMapper.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o3-DTO\\ReservaMapper.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\ReservaMapper.cs",
+              "RelativeToolTip": "Quest\u00E3o3-DTO\\ReservaMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:40:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelatorioReservaDto.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\RelatorioReservaDto.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o3-DTO\\RelatorioReservaDto.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\RelatorioReservaDto.cs",
+              "RelativeToolTip": "Quest\u00E3o3-DTO\\RelatorioReservaDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:39:39.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\Reserva.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o3-DTO\\Reserva.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\Reserva.cs",
+              "RelativeToolTip": "Quest\u00E3o3-DTO\\Reserva.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:38:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\Program.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o3-DTO\\Program.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o3-DTO\\Quest\u00E3o3-DTO\\Program.cs",
+              "RelativeToolTip": "Quest\u00E3o3-DTO\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:37:39.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

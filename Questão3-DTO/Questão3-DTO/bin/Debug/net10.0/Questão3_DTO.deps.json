@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Questão3_DTO/1.0.0": {
+        "runtime": {
+          "Questão3_DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Questão3_DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
