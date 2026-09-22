@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|c:\\my process visual studio\\quest\u00E3o2-reflection\\quest\u00E3o2-reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|solutionrelative:quest\u00E3o2-reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|c:\\my process visual studio\\quest\u00E3o2-reflection\\quest\u00E3o2-reflection\\exibirattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|solutionrelative:quest\u00E3o2-reflection\\exibirattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|c:\\my process visual studio\\quest\u00E3o2-reflection\\quest\u00E3o2-reflection\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE050EF-6F95-4B3C-A6B9-81D269F6A607}|Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection.csproj|solutionrelative:quest\u00E3o2-reflection\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\Equipamento.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o2-Reflection\\Equipamento.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\Equipamento.cs*",
+              "RelativeToolTip": "Quest\u00E3o2-Reflection\\Equipamento.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:23:39.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExibirAttribute.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\ExibirAttribute.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o2-Reflection\\ExibirAttribute.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\ExibirAttribute.cs*",
+              "RelativeToolTip": "Quest\u00E3o2-Reflection\\ExibirAttribute.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:22:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o2-Reflection\\Program.cs",
+              "ToolTip": "C:\\MY PROCESS VISUAL STUDIO\\Quest\u00E3o2-Reflection\\Quest\u00E3o2-Reflection\\Program.cs*",
+              "RelativeToolTip": "Quest\u00E3o2-Reflection\\Program.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T19:21:37.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
